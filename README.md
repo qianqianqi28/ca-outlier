@@ -23,4 +23,3 @@ Please see Readme file in R folder.
 
 ## License
 This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
-In R folder, reconca.R is a function to implement reconstitution of order h; the code is written by adjusting imputeCA function in the package missMDA version 1.19.
