@@ -10,7 +10,7 @@ source("R/reconca.R")
 ##########################
 ##  check data
 ##########################
-v
+
 #Please load dataset in data/processed
 dt <- read_excel("data/processed/OP for Rno3273.xlsx")
 dt <- as.data.frame(dt)
