@@ -1,8 +1,7 @@
 # Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm
 This project is for Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm.
 
-
-#configuration instructions
+## configuration instructions
 The project structure distinguishes three kinds of folders:
 - data fold is for putting data.
 - R folder is to put R script.
@@ -12,12 +11,16 @@ The project structure distinguishes three kinds of folders:
 use library(renv) init() to obtain renv.lock file. By looking at the file:
 This code is run by R version 4.2.3.
 The manin package are
-readxl version 1.4.3
-xtable version 1.8-4
-cellWise  version 2.5.3
-FactoMineR version 2.9
+- readxl version 1.4.3
+- xtable version 1.8-4
+- cellWise  version 2.5.3
+- FactoMineR version 2.9
 
 If you want to load the request packages, you can use renv::restore().
 
-##Operating instructions
+## Operating instructions
 Please see Readme file in R folder.
+
+## License
+This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
+In R folder, reconca.R is a function to implement reconstitution of order h; the code is written by adjusting imputeCA function in the package missMDA version 1.19.
