@@ -1,7 +1,7 @@
 # Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm
 This project is for Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm.
 
-## configuration instructions
+## Configuration instructions
 The project structure distinguishes three kinds of folders:
 - data fold is for putting data.
 - R folder is to put R script.
