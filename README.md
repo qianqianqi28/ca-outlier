@@ -1,5 +1,5 @@
 # Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm
-This project is for Correspondence analysis: handling cell-wise outliers via the reconstitution algorithm.
+This project is for Correspondence analysis: Handling cell-wise outliers via the reconstitution algorithm.
 
 ## Configuration instructions
 The project structure distinguishes three kinds of folders:
@@ -19,6 +19,9 @@ If you want to load the request packages, you can use renv::restore().
 
 ## Operating instructions
 Please see Readme file in R folder.
+
+## Paper
+Qi, Q., Hessen, D. J., Vonk, A. N., & van der Heijden, P. G. M. (2025). Correspondence analysis: Handling cell-wise outliers via the reconstitution algorithm. Bulletin of Sociological Methodology/Bulletin de Méthodologie Sociologique, 167(1), 96-122. https://doi.org/10.1177/07591063251348789.
 
 ## License
 This project is licensed under the terms of the LICENSE GNU General Public License v3.0.
